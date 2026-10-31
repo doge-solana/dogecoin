@@ -4,9 +4,31 @@
 Dogecoin Core [DOGE, Ð]  
 </h1>
 
-**IMPORTANT: Starting August 2024, the `master` branch has become the primary
-integration branch and has become unstable. Please check out a tagged version
-before compiling production binaries.**
+# NOTICE - 31/10/2026
+
+This is an experimental memecoin launched on Pump.fun. It has no inherent value, no utility, and no guarantees. The token is paired against the official Dogecoin representation on Solana and is highly speculative. Do your own research.
+
+---
+
+# [Dogecoin]
+
+A Solana DOGE launched on [Pump.fun](https://pump.fun/coin/3XGQR5GUkercysJz3hnExHrkqfoUgKwvrd3k6ieWpump) and paired directly to the official Dogecoin representation.
+
+## Overview
+
+Instead of the usual SOL or USDC quote, this token’s bonding curve and post-graduation liquidity pool run against mainnet DOGE (`DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`). Price discovery, trading, and liquidity all happen in DOGE terms.
+
+## Contract
+
+- **Network**: Solana
+- **Quote Asset**: Dogecoin (Wormhole NTT / Sunrise)
+- **Quote Mint**: `DoGEV7LASBkQbibMc5k5vKnTZoMg423GpJ5QtJEGfm7R`
+
+## Links
+
+- [Pump.fun] [https://pump.fun/coin/3XGQR5GUkercysJz3hnExHrkqfoUgKwvrd3k6ieWpump]
+
+---
 
 For internationalized documentation, see the index at [doc/intl](doc/intl/README.md).
 
